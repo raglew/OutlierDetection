@@ -4,7 +4,7 @@
 
 
 Plotly is used to plot a graph of the data.
-See OfflinePlotlyTrace.py -- You will need to pip install plotly.
+See python3 file 'OfflinePlotlyTrace.py' -- You will need to pip install plotly.
 
 <H5> Graph of data </H5>
 
