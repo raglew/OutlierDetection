@@ -33,3 +33,9 @@ Python3 file OutlierDetection.py can be used to plot stats. See below.
 ![alt tag](https://github.com/raglew/OutlierDetection/blob/master/maxminoutliers.png)
 
 Expected different results. Are the values indicated as outliers really outliers? Method to detect outliers needs to be examined further. Perhaps another approach is needed.
+
+Two approaches spring to mind.
+
+1. Use percentiles instead of quartiles.
+2. Range across data series captured from several data collections.
+
